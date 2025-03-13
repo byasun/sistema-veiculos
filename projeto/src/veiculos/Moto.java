@@ -1,4 +1,5 @@
-package veiculos;
+package Veiculos;
+
 public class Moto extends Veiculo {
     private boolean partidaEletrica;
 

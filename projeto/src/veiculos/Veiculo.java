@@ -1,4 +1,4 @@
-package src.veiculos;
+package Veiculos;
 
 public class Veiculo{
 
